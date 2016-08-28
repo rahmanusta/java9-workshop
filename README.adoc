@@ -1,6 +1,6 @@
 == Java 9 Workshop Kodları 
 
-Bu dizindeki projeleri Java 9 destekli NetBeans ile çalıştırabilirsiniz.
+Java 9 Workshop için geliştirilen örnek uygulamalara bu repo üzerinden erişebilirsiniz.
 
 hello::
 
