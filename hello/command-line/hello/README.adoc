@@ -1,0 +1,19 @@
+Jigsaw modül sistemini kullanan basit bir Merhaba Dünya uygulamasıdır.
+
+[tree]
+--
+hello
+`--src
+   |--com
+   |  `--hello
+   |     `--App.java
+   `--module-info.java
+--
+
+Komut dosyalarını çalıştırarak uygulamayı test edebilirsiniz.
+
+. Derleyin (compile)
+. Çalıştırın (run)
+. Paketleyin (package)
+. Çalıştırın (run)
+. Yayınlayın (link)

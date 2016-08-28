@@ -1,0 +1,1 @@
+java -modulepath dist -m com.hello/com.hello.App

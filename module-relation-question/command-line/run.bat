@@ -1,0 +1,2 @@
+java -modulepath printer/dist;printer-client/dist -m com.printer.client/com.printer.client.PrinterClient
+:: java -modulepath printer/printer.jar;printer-client/printer-client.jar -m com.printer.client/com.printer.client.PrinterClient

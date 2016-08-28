@@ -1,0 +1,1 @@
+jar --create --file hellofx.jar --main-class=com.hello.App -C dist .

@@ -1,0 +1,51 @@
+== Java 9 Workshop Kodları 
+
+Bu dizindeki projeleri Java 9 destekli NetBeans ile çalıştırabilirsiniz.
+
+hello::
+
+Basit bir Merhaba Dünya uygulamasıdır
+
+hellofx::
+
+Jigsaw ile JavaFX birlikteliğini gösteren bir uygulamadır.
+
+module-relation-question::
+
+İki farklı modülün *printer* ve *printer-client* komut diziniyle modüler olarak nasıl çalıştırılabildiğini gösterir.
+
+module-types::
+
+Java 9 Jigsaw modül tiplerini gösterir: Normal modül, otomatik modül ve isimsiz modül
+
+generate-image::
+
+Çeşitli ölçeklerde farklı JRE imajları oluşturur.
+
+http2::
+
+Java 9 HTTP/2 Client API ile HTTP GET talebi yapar
+
+http2-websocket::
+
+Taner Diler'in paylaştığı HTTP/2 Client API ve WebSocket örnekleri
+
+module-reflection::
+
+Java 9 Jigsaw uygulamalarında modül bilgilerine Reflection API ile nasıl erişildiğini gösterir.
+
+process-api::
+
+Process API değişikliklerini gösterir.
+
+process-api-question::
+
+Process API ve JavaFX ile yazılmış modüler bir Task Manager uygulamasıdır.
+
+stream-api::
+
+Stream API değişikliklerini gösterir.
+
+websocket-sample::
+
+WebSocket server ve Java 9 WebSocket client örneği içerir.

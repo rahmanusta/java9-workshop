@@ -1,0 +1,32 @@
+Jigsaw modül sistemini kullanan ve iki modülü kullanan basit bir printer uygulamasıdır.
+
+.Printer modülü
+[tree]
+--
+printer
+`--src
+   |--com
+   |  `--printer
+   |     `--Printer.java
+   `--module-info.java
+--
+
+.Printer Client modülü
+[tree]
+--
+printer-client
+`--src
+   |--com
+   |  `--printer
+   |     `--client
+   |        `--PrinterClient.java
+   `--module-info.java
+--
+
+Komut dosyalarını çalıştırarak uygulamayı test edebilirsiniz.
+
+. Derleyin (compile)
+. Çalıştırın (run)
+. Paketleyin (package)
+. Çalıştırın (run)
+. Yayınlayın (link)

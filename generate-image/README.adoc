@@ -1,0 +1,1 @@
+Komutlar çalıştırıldığında çeşitli Jigsaw modüllerini içeren modüler imajlar oluşturur. Her bir imaj çalıştırılabilir birer JRE'dir.

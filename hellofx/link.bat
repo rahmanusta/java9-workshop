@@ -1,0 +1,1 @@
+jlink --modulepath %JAVA_HOME%/jmods;hellofx.jar --addmods com.hello --output release
