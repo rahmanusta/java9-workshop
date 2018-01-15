@@ -1,1 +1,1 @@
-jdeps hello.jar
+jdeps hellofx.jar

@@ -1,0 +1,5 @@
+com\kodedu\process\api\PidToHandle.class
+com\kodedu\process\api\ProcessApi.class
+com\kodedu\process\api\CurrentHandle.class
+module-info.class
+com\kodedu\process\api\AllHandle.class

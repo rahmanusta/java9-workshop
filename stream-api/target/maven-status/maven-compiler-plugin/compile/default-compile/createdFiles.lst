@@ -1,0 +1,6 @@
+com\kodedu\stream\api\TakeWhile.class
+com\kodedu\stream\api\TakeDropWhile.class
+com\kodedu\stream\api\DropWhile.class
+module-info.class
+com\kodedu\stream\api\Infinite.class
+com\kodedu\stream\api\Iterate.class

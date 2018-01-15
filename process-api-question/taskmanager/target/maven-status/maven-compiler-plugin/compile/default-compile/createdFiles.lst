@@ -1,0 +1,3 @@
+module-info.class
+com\kodedu\taskmanager\Task.class
+com\kodedu\taskmanager\TaskManager.class

@@ -1,3 +1,3 @@
 #!/bin/bash
 
-jlink --modulepath %JAVA_HOME%/jmods;hello.jar --addmods com.hello --output release
+jlink --module-path %JAVA_HOME%/jmods;hello.jar --add-modules com.hello --output release

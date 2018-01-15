@@ -1,0 +1,2 @@
+module process.api.sample {
+}
