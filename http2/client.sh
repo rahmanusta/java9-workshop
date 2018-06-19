@@ -1,0 +1,1 @@
+./mvnw clean install exec:java -Dexec.args="--add-modules jdk.incubator.httpclient" -Dexec.mainClass=com.kodedu.http2.client.Client

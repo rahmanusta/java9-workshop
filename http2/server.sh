@@ -1,0 +1,1 @@
+./mvnw clean compile exec:java -Dexec.mainClass=com.kodedu.http2.server.Server

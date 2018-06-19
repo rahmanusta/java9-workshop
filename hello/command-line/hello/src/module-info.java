@@ -1,3 +1,3 @@
-module com.hello {
+module com.foo {
     
 }

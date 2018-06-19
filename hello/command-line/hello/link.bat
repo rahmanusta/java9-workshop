@@ -1,2 +1,2 @@
 ::jlink --module-path %JAVA_HOME%/jmods;hello.jar --add-modules com.hello --launcher starter=com.hello --output release
-jlink --module-path %JAVA_HOME%/jmods;hello.jar --add-modules com.hello --output release
+jlink --module-path %JAVA_HOME%/jmods;hello.jar --add-modules com.foo --launcher hello=com.foo/com.foo.Hello --output release

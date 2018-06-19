@@ -1,6 +1,7 @@
 package com.kodcu.websocket;
 
 import jdk.incubator.http.HttpClient;
+import jdk.incubator.http.HttpRequest;
 import jdk.incubator.http.WebSocket;
 
 import java.io.IOException;
@@ -17,8 +18,8 @@ public class WebSocketClient {
 
         HttpClient httpClient = HttpClient.newBuilder().build();
 
-        WebSocket webSocket = httpClient.newWebSocketBuilder(uri, messageListener)
-                .buildAsync()
+        WebSocket webSocket = httpClient.newWebSocketBuilder()
+                .buildAsync(uri, messageListener)
                 .join();
 
         webSocket.request(Long.MAX_VALUE);
